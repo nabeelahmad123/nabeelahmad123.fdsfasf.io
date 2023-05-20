@@ -1,0 +1,45 @@
+god father
+1-Gladiator
+2-The Shawshank Redemption (2nd)
+3-Schindler's List
+4- Forrest Gump(1st)
+5-Fight Club 
+6- inception
+7.Life Is Beautiful 
+8-Whiplash
+9- Django Unchained 
+10-Inglourious Basterds
+
+
+books
+The intellegent investor by ghrham
+the republic
+the history of philoshpy
+beyond good and evil
+capital
+song
+tera nasha
+
+anime
+death note
+
+
+
+
+
+
+
+
+
+- Restrict Access based on subscription (5 Hours)
+- Sign up email content (1 Hours)
+- Dynamic consultation form  (4 Hours)
+- To add cardio's, weight in progress tab (need design from client) (10 Hours)
+- Mark complete exercise, weight lift, sets and rounds (5 Hours)
+- Track user exercise compilation (3 Hours)
+- Change card on profile (4 Hours)
+- change icons on home tabs (need from client) (3 Hours)
+- show meal plan on daily basis (5 Hours)
+- separate meal plans for premium user (4 Hours)
+- download pdf of meals (3 Hours)
+total hours =47

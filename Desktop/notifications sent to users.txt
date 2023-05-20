@@ -1,0 +1,44 @@
+{
+	title: Added to Group!
+	content: (admin name) added you to (group name) group.
+}
+{
+	title: Group Renamed!
+	content: (admin name) changed group name from (old name) to (new name).
+}
+{
+	title: Group Member Left!
+	content: (full name who left) left (group name).
+}
+{
+	title: Group Deleted!
+	content: (admin name) deleted the group (group name).
+}
+{
+	title: Habit Assigned!
+	content: (admin name) assigned you (habit name) habit, starting from (start date).
+}
+{
+	title: New Program Subscribed!
+	content: (admin name) subscribed you to (program name) program.
+}
+{
+	title: Program UnSubscribed!
+	content: (admin name) unsubscribed you from (program name) program.
+}
+{
+	title: Daily Tasks!
+	---------(content depends upon type of task, any one is used for each task)
+	content 1: Remember to do your workout today.
+	content 2: You have planned (activity type like running swimming etc) activity today.
+	content 3: Don't Forget to have meal today.
+	content 4: You have scheduled to update bodystats today.
+}
+{
+	title: Posture Pictures Reminder!
+	content: Its time to upload your latest posture images.
+}
+{
+	title: New Achievement!
+	content: You Just earned (silver/gold/platinum) badge for (nth) week of (program name) program.
+}
